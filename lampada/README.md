@@ -4,9 +4,9 @@ Exercício presente nos mini projetos com Javascript de Fernando Leonid disponí
 
 Praticando:
 
-👉 Acesso ao DOM;
-👉 Método addEventListener ();
-👉 Functions com return.
+👉 Acesso ao DOM
+👉 Método addEventListener ()
+👉 Functions com return
 
 A lâmpada liga ao passar com o mouse sobre a imagem, e desliga ao sair da imagem.
 Também liga e desliga ao clicar nos botões.
