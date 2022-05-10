@@ -17,5 +17,5 @@ Resultado:
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/87499710/167676051-4cd34ab4-6934-4a28-b0dd-7713bf2f7aec.gif" width="400px"/>
+<img src="https://user-images.githubusercontent.com/87499710/167676051-4cd34ab4-6934-4a28-b0dd-7713bf2f7aec.gif" width="300px"/>
 </div>
